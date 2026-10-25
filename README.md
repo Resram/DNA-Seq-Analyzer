@@ -2,7 +2,7 @@
 
 ### A Beginner-Friendly Bioinformatics Tool Built with Python and Streamlit
 
-## 📖 About the Project
+## About the Project
 
 DNA Sequence Analyzer is a simple web application developed using Python and Streamlit. It allows users to enter a DNA sequence and analyze its nucleotide composition.
 
@@ -117,4 +117,4 @@ This project helped me understand how Python can be used to solve simple biologi
 
 ---
 
-**Made with Python, curiosity, and an interest in biology! 🧬**
+**Made with Python, curiosity, and an interest in biology! **
